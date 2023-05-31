@@ -1,0 +1,87 @@
+body{
+    overflow-x: hidden;
+    text-align: center;
+    background: #f5faff;
+    height: 100%;
+    color: white;
+}
+
+.ha{
+    margin: 5rem;
+    display: flex;
+    justify-content: space-between;
+}
+
+.bom{
+    background: #d4d4d4;
+    text-align: right;
+}
+
+h3, p, span{
+    color: rgb(119, 129, 133);
+}
+
+.e, .f{
+    color: black;
+}
+
+.info{
+    width: 50px;
+    text-align: center;
+    margin: 2rem 0 2rem 40%;
+}
+
+.info li{
+    display: flex;
+    flex-flow: row;
+}   
+
+.sobre{
+    margin-top: 25%;
+    color: #000;
+}
+
+.footer{
+    margin-top: 15%;
+}
+
+.contato {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.contato #email {
+    text-align: center;
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 500px;
+    height: 40px;
+    margin-bottom: 20px;
+}
+
+.contato button {
+    border: 1px solid #000;
+    border-radius: 20px;
+    width: 500px;
+    height: 40px;
+    background-color: #000000;
+    color: #9e7575;
+    font-size: 15px;
+    margin-bottom: 20px;
+}
+
+
+  .contato h1 {
+    font-size: 40px;
+}
+
+.tadeu {
+    color: rgb(36, 255, 189);
+}
+
+.sobremim { 
+    padding-left: 15rem;
+    padding-right: 15rem;
+    color: #000;
+}
